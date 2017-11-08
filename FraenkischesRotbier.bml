@@ -41,7 +41,7 @@
     <OnTimePulse>0</OnTimePulse>
     <OffTimePulse>0</OffTimePulse>
     <MaxGradient>1.0</MaxGradient>
-    <Info></Info>
+    <Info>Verkleistert Staerke</Info>
   </rast>
   <rast>
     <Nr>2</Nr>
@@ -59,7 +59,7 @@
     <OnTimePulse>0</OnTimePulse>
     <OffTimePulse>0</OffTimePulse>
     <MaxGradient>1.0</MaxGradient>
-    <Info></Info>
+    <Info>alpha Amylase. Erzeugt Maltose Zucker zur Gärung</Info>
   </rast>
   <rast>
     <Nr>3</Nr>
@@ -77,7 +77,9 @@
     <OnTimePulse>0</OnTimePulse>
     <OffTimePulse>0</OffTimePulse>
     <MaxGradient>1.0</MaxGradient>
-    <Info>Jodprobe, bei Jod-Normal weiter</Info>
+    <Info>beta-Amylase. Erzeugt Dextrose zur Vollmundigkeit. 
+	Jodprobe, bei Jod-Normal (keine Staerke mehr vorhanden) weiter. 
+	Ansonsten so lange die Rast halten bis Jod-Normal</Info>
   </rast>
   <rast>
     <Nr>4</Nr>
@@ -95,7 +97,7 @@
     <OnTimePulse>0</OnTimePulse>
     <OffTimePulse>0</OffTimePulse>
     <MaxGradient>1.0</MaxGradient>
-    <Info>Wuerze messen mit Bierspindel</Info>
+    <Info>Wuerze messen mit Bierspindel oder Refraktometer</Info>
   </rast>
   <rast>
     <Nr>5</Nr>
@@ -113,7 +115,9 @@
     <OnTimePulse>0</OnTimePulse>
     <OffTimePulse>0</OffTimePulse>
     <MaxGradient>0.0</MaxGradient>
-    <Info>Anschwaenzen: ersten Liter wieder zugeben; 8L Nachguss</Info>
+    <Info>Anschwaenzen: die ersten Liter bis es hell rauskommt wieder 
+	zurueckgeben dmait sich der Filter bildet; 8L Nachguss oder so lange Nachguss, 
+	bis die gewuenschte Stammwürze erreicht ist</Info>
   </rast>
   <rast>
     <Nr>6</Nr>
