@@ -10,11 +10,10 @@ wget http://ftp.gnu.org/gnu/coreutils/coreutils-6.12.tar.gz --append-output=./lo
 wget http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.4.4.tar.gz --append-output=./loaded.txt
 wget http://ftp.gnu.org/gnu/diffutils/diffutils-2.8.1.tar.gz --append-output=./loaded.txt
 wget http://prdownloads.sourceforge.net/e2fsprogs/e2fsprogs-1.41.3.tar.gz --append-output=./loaded.txt
-wget http://expect.nist.gov/src/expect-5.43.0.tar.gz --append-output=./loaded.txt
+wget http://pkgs.fedoraproject.org/repo/pkgs/expect/expect-5.43.0.tar.gz/230400129630335b3060a42f66fec11d/expect-5.43.0.tar.gz --append-output=./loaded.txt
 wget ftp://ftp.astron.com/pub/file/file-4.26.tar.gz --append-output=./loaded.txt
 wget http://ftp.gnu.org/gnu/findutils/findutils-4.4.0.tar.gz --append-output=./loaded.txt
-wget https://src.fedoraproject.org/repo/pkgs/flex/flex-2.5.35.tar.bz2/10714e50cea54dc7a227e3eddcd44d57/flex-2.5.35.tar.bz2
- --append-output=./loaded.txt
+wget https://src.fedoraproject.org/repo/pkgs/flex/flex-2.5.35.tar.bz2/10714e50cea54dc7a227e3eddcd44d57/flex-2.5.35.tar.bz2 --append-output=./loaded.txt
 wget http://ftp.gnu.org/gnu/gawk/gawk-3.1.6.tar.bz2 --append-output=./loaded.txt
 wget http://ftp.gnu.org/gnu/gcc/gcc-4.3.2/gcc-4.3.2.tar.bz2 --append-output=./loaded.txt
 wget http://ftp.gnu.org/gnu/gettext/gettext-0.17.tar.gz --append-output=./loaded.txt
